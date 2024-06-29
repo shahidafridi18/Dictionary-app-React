@@ -45,7 +45,7 @@ const Dictionary = (props) => {
     <div className='dictionary-app'>
       <div className='container'>
         <h3 className='text-center text-ligth mb-4 fst-italic' style={{ marginTop: '5px', fontSize: '4rem', fontWeight: 'bold' }}>
-        Definify
+        Definity
         </h3>
         <div className='row justify-content-center my-3'>
           <div className='col-lg-6 col-md-8 col-sm-10'>
